@@ -1,0 +1,10 @@
+{
+  "name": "BeamDrop - Direct Offline Cross-Device Share",
+  "description": "Connect any device offline without errors. Direct peer-to-peer file, clipboard, and media sharing with automatic zero-permission delivery across local Wi-Fi, Hotspot, WebRTC, and air-gapped QR codes.",
+  "requestFramePermissions": [
+    "camera",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
